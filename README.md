@@ -8,6 +8,9 @@
 
 <h1 align="center"><img src="https://d35fo82fjcw0y8.cloudfront.net/2018/03/01012156/RFMgrid.gif" width="950px" /></h1>
 
+<h2> Dataset  :   <a href="https://www.kaggle.com/kabilan45/online-retail-ii-dataset" target="_blank"> <img src="https://www.kaggle.com/static/images/site-logo.png" alt="kaggle" width="70" height="40"/> </a> </h2>
+
+
 
 <p> RFM (Recency, Frequency, and Monetary) Model provides auto-segmentation and bucket users into categories such as Loyal, Promising, At Risk, etc. based on their behavior. These auto segments can be used in multiple different ways such as user analysis, churn analysis, and campaign effectiveness. RFM can also be used predictive segmentation, customers who are more likely to respond to promotions and also for future personalization.
 
